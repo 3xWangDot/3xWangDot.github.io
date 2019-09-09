@@ -18,7 +18,7 @@ Specifically, my current research focus is on:
 
 NEWS:
 ======
-*August 2019*: One paper accepted to IEEE TPAMI.
+*August 2019*: One paper accepted to the IEEE TPAMI.
 
 *July 2019*: One paper accepted to the ICCV 2019.
 
