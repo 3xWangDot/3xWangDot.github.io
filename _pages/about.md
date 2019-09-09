@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 My name is Jue Wang, a fourth year PhD student in the Australian National University under  the supervision of [Prof. Richard Hartley](http://users.cecs.anu.edu.au/~hartley/), [Prof. Fatih Porikli](http://www.porikli.com) and [Dr. Anoop Cherian](http://users.cecs.anu.edu.au/~cherian/). My research interest is Deep Learning and Computer Vision. 
-
 Specifically, my current research focus is on:
-1. Video representation learning for action recognition.
-2. Vision and Language: video captioning  and video dialog.
-3. Video generation and video disentanglement.
+* Video representation learning for action recognition.
+* Vision and Language: video captioning  and video dialog.
+* Video generation and video disentanglement.
 
 
 NEWS:
