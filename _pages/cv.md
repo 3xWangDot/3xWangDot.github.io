@@ -26,7 +26,7 @@ Work experience
 
 Publications
 ======
-* [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://arxiv.org/pdf/1908.05884.pdf)
+* [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://arxiv.org/pdf/1908.05884.pdf)\
   **Jue Wang**, Anoop Cherian
 
 Academic activities
