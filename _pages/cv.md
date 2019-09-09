@@ -25,7 +25,8 @@ Work experience
   * Mitsubishi Electric Research Lab
 
 Publications
-======
+======   
+
 * [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://arxiv.org/pdf/1908.05884.pdf)<br/>
   **Jue Wang**, Anoop Cherian      
   IEEE International Conference on Computer Vision (ICCV) 2019
