@@ -13,7 +13,7 @@ name                     : &name "Jue Wang"
 description              : &description "PhD Student at Australian National University"
 url                      : https://juewang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juewang.github.io"
+repository               : #"juewang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student at Australian National University"
   location         : "Canberra, ACT"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Lt945BwAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
