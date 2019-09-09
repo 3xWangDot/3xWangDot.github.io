@@ -16,7 +16,7 @@ Education
 * Ph.D in College of Engineering and Computer Science, Australian National University, 2016-2020
 (expected)
 
-Work experience
+Work Experience
 ======
 * September - November 2019: Research Intern
   * Mitsubishi Electric Research Lab
@@ -56,7 +56,7 @@ Publications
   Winter Conference on Applications of Computer Vision (WACV) 2017      
  
 
-Academic activities
+Academic Service
 ======
 * Peer Reviewer for ICCV 2019
 
