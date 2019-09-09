@@ -23,7 +23,10 @@ Work experience
 
 * February - November 2018: Research Intern
   * Mitsubishi Electric Research Lab
-  
+
+Publications
+======
+
 
 Academic activities
 ======
