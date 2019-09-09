@@ -48,6 +48,7 @@ Publications
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
 
 * [Multimodal Attention for Fusion of Audio and Spatiotemporal Features for Video Description](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w49/Hori_Multimodal_Attention_for_CVPR_2018_paper.pdf)    
+  Chiori Hori, Takaaki Hori, Gordon Wichern, **Jue Wang**, Teng-yok Lee, Anoop Cherian, Tim K Marks     
   IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2018    
 
 * [Ordered Pooling of Optical Flow Sequences for Action Recognition](https://arxiv.org/pdf/1701.03246.pdf)         
