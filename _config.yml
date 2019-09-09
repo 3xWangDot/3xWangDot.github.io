@@ -11,7 +11,7 @@ title                    : "Jue Wang"
 title_separator          : "-"
 name                     : &name "Jue Wang"
 description              : &description "PhD Student at Australian National University"
-url                      : https://juewang.github.io
+url                      : https://3xWangDot.github.io/juewang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"juewang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
