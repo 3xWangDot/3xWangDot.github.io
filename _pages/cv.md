@@ -61,3 +61,5 @@ Academic activities
 
 * Peer Reviewer for CVPR 2019
 
+[Download my CV](https://3xwangdot.github.io/juewang.github.io/files/Jue_WANG_CV.pdf)
+
