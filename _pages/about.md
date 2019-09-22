@@ -26,7 +26,7 @@ NEWS:
 
 *February 2019*: One paper accepted to the ICASSP 2019.
 
-*July 2018*: One paper accepted to the ECCV 2018 as Oral Presentation.
+*July 2018*: One paper accepted to the ECCV 2018 and selected as Best Paper Finalists.
 
 *March 2018*: One paper accepted to the CVPR 2018.
 

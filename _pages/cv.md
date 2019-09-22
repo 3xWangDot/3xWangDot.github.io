@@ -27,6 +27,10 @@ Work Experience
 Publications
 ======   
 
+* [Discriminative Video Representation Learning Using Support Vector Classifiers](https://arxiv.org/pdf/1909.02856.pdf)<br/>
+  **Jue Wang**, Anoop Cherian      
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+
 * [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://arxiv.org/pdf/1908.05884.pdf)<br/>
   **Jue Wang**, Anoop Cherian      
   *IEEE International Conference on Computer Vision (ICCV) 2019*
@@ -41,7 +45,7 @@ Publications
 
 * [Learning discriminative video representations using adversarial perturbations](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jue_Wang_Learning_Discriminative_Video_ECCV_2018_paper.pdf)     
   **Jue Wang**, Anoop Cherian    
-  *15th European Conference on Computer Vision (ECCV) 2018, (Oral Presentation)*
+  *15th European Conference on Computer Vision (ECCV) 2018, (Best Paper Finalists)*
 
 * [Video Representation Learning Using Discriminative Pooling](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Representation_Learning_CVPR_2018_paper.pdf)     
   **Jue Wang**, Anoop Cherian, Fatih Porikli, Stephen Gould    
