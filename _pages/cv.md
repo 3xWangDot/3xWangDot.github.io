@@ -27,6 +27,10 @@ Work Experience
 Publications
 ======   
 
+* [Spatio-Temporal Ranked-Attention Networks for Video Captioning](http://openaccess.thecvf.com/content_WACV_2020/papers/Cherian_Spatio-Temporal_Ranked-Attention_Networks_for_Video_Captioning_WACV_2020_paper.pdf)<br/>
+  Anoop Cherian, **Jue Wang**, Chiori Hori, Tim Marks      
+  *Winter Conference on Applications of Computer Vision (WACV) 2020*
+
 * [Discriminative Video Representation Learning Using Support Vector Classifiers](https://arxiv.org/pdf/1909.02856.pdf)<br/>
   **Jue Wang**, Anoop Cherian      
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*

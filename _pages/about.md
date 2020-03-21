@@ -18,6 +18,8 @@ Specifically, my current research focus is on:
 
 NEWS:
 ======
+*February 2020*: One paper accepted to the WACV 2020.
+
 *August 2019*: One paper accepted to the IEEE TPAMI.
 
 *July 2019*: One paper accepted to the ICCV 2019.
