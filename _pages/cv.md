@@ -66,9 +66,8 @@ Publications
 
 Academic Service
 ======
-* Peer Reviewer for ICCV 2019
+* Peer Reviewer for ICCV, CVPR, ECCV, AAAI
 
-* Peer Reviewer for CVPR 2019
 
 [Download my CV](https://3xwangdot.github.io/juewang.github.io/files/Jue_WANG_CV.pdf)
 
