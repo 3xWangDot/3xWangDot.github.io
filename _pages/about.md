@@ -18,6 +18,10 @@ Specifically, my current research focus is on:
 
 NEWS:
 ======
+*May 2021*: Two papers accepted to the TPAMI.
+
+*February 2021*: One paper accepted to the CVPR 2021.
+
 *February 2020*: One paper accepted to the WACV 2020.
 
 *August 2019*: One paper accepted to the IEEE TPAMI.

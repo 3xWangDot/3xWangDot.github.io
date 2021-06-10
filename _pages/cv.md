@@ -25,21 +25,32 @@ Work Experience
   * Mitsubishi Electric Research Lab
 
 Publications
-======   
+======  
+* [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://scholar.google.com/citations?user=Lt945BwAAAAJ&hl=zh-CN)<br/>
+  Anoop Cherian, **Jue Wang**
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+ 
+* [Learning Log-Determinant Divergences for Positive Definite Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9405430)<br/>
+  Anoop Cherian, Panagiotis Stanitsas, **Jue Wang**, Mehrtash T Harandi, Vassilios Morellas, Nikos Papanikolopoulos   
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+
+* [VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)<br/>
+  Xudong Lin, Gedas Bertasius, **Jue Wang**, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani      
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021*
 
 * [Spatio-Temporal Ranked-Attention Networks for Video Captioning](http://openaccess.thecvf.com/content_WACV_2020/papers/Cherian_Spatio-Temporal_Ranked-Attention_Networks_for_Video_Captioning_WACV_2020_paper.pdf)<br/>
   Anoop Cherian, **Jue Wang**, Chiori Hori, Tim Marks      
   *Winter Conference on Applications of Computer Vision (WACV) 2020*
 
-* [Discriminative Video Representation Learning Using Support Vector Classifiers](https://arxiv.org/pdf/1909.02856.pdf)<br/>
+* [Discriminative Video Representation Learning Using Support Vector Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812898)<br/>
   **Jue Wang**, Anoop Cherian      
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
 
-* [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://arxiv.org/pdf/1908.05884.pdf)<br/>
+* [GODS: Generalized One-class Discriminative Subspaces for Anomaly Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_GODS_Generalized_One-Class_Discriminative_Subspaces_for_Anomaly_Detection_ICCV_2019_paper.pdf)<br/>
   **Jue Wang**, Anoop Cherian      
   *IEEE International Conference on Computer Vision (ICCV) 2019*
 
-* [End-to-end audio visual scene-aware dialog using multimodal attention-based video features](https://arxiv.org/pdf/1806.08409.pdf)     
+* [End-to-end audio visual scene-aware dialog using multimodal attention-based video features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682583)     
   Chiori Hori, Huda Alamri, **Jue Wang**, Gordon Wichern, Takaaki Hori, Anoop Cherian, Tim K Marks, Vincent Cartillier, Raphael Gontijo Lopes, Abhishek Das, Irfan Essa, Dhruv Batra, Devi Parikh       
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*
 
