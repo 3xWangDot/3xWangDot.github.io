@@ -27,7 +27,7 @@ Work Experience
 Publications
 ======  
 * [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://scholar.google.com/citations?user=Lt945BwAAAAJ&hl=zh-CN)<br/>
-  Anoop Cherian, **Jue Wang**
+  Anoop Cherian*, **Jue Wang*** 
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
  
 * [Learning Log-Determinant Divergences for Positive Definite Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9405430)<br/>
