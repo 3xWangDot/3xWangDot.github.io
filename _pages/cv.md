@@ -81,5 +81,5 @@ Academic Service
 * Peer Reviewer for ICCV, CVPR, ECCV, AAAI
 
 
-[Download my CV](https://3xwangdot.github.io/juewang.github.io/files/Jue_WANG_CV.pdf)
+[Download my CV](https://3xwangdot.github.io/files/Jue_WANG_CV.pdf)
 
