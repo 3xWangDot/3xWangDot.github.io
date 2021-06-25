@@ -1,1 +1,1 @@
-[Welcome to my personal website](https://3xwangdot.github.io/juewang.github.io//)
+[Welcome to my personal website](https://3xwangdot.github.io/)
