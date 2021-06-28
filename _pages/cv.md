@@ -26,7 +26,7 @@ Work Experience
 
 Publications
 ======  
-* [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://scholar.google.com/citations?user=Lt945BwAAAAJ&hl=zh-CN)<br/>
+* [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://arxiv.org/abs/2106.13272)<br/>
   Anoop Cherian<sup>\*</sup>， **Jue Wang<sup>\*</sup>**<br/>
   <sup>\*</sup>Equal Contribution<br/>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
