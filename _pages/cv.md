@@ -30,7 +30,7 @@ Publications
   **Jue Wang**, Gedas Bertasius, Du Tran, Lorenzo Torresani      
   *Technical report*
 
-* [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://arxiv.org/abs/2106.13272)<br/>
+* [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://ieeexplore.ieee.org/document/9466440)<br/>
   Anoop Cherian<sup>\*</sup>， **Jue Wang<sup>\*</sup>**<br/>
   <sup>\*</sup>Equal Contribution<br/>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
