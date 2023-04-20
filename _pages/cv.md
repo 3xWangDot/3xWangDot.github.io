@@ -14,10 +14,15 @@ Education
 * B.S. in School of Information and Electronics, Beijing Institute of Technology, 2010-2012
 * B.S. in College of Engineering and Computer Science, Australian National University, 2012-2015
 * Ph.D in College of Engineering and Computer Science, Australian National University, 2016-2020
-(expected)
 
 Work Experience
 ======
+* August 2022 - Now: Machine Learning Scientist
+  * Amazon Prime Video
+
+* June 2020 - June 2022: Postdoctoral Researcher
+  * Facebook AI Research Lab
+
 * September - November 2019: Research Intern
   * Mitsubishi Electric Research Lab
 
@@ -26,9 +31,17 @@ Work Experience
 
 Publications
 ======  
-* [Long-Short Temporal Contrastive Learning of Video Transformers](https://arxiv.org/abs/2106.09212)<br/>
+* [Selective Structured State-Spaces for Long-Form Video Understanding](https://arxiv.org/pdf/2303.14526.pdf)<br/>
+  **Jue Wang**, Wentao Zhu, Pichao Wang, Xiang Yu, Linda Liu, Mohamed Omar, Raffay Hamid     
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023*
+
+* [Deformable video transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Deformable_Video_Transformer_CVPR_2022_paper.pdf)<br/>
+  **Jue Wang**, Lorenzo Torresani      
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022*
+
+* [Long-Short Temporal Contrastive Learning of Video Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Long-Short_Temporal_Contrastive_Learning_of_Video_Transformers_CVPR_2022_paper.pdf)<br/>
   **Jue Wang**, Gedas Bertasius, Du Tran, Lorenzo Torresani      
-  *Technical report*
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022*
 
 * [Generalized One-Class Learning Using Pairs of Complementary Classifiers](https://ieeexplore.ieee.org/document/9466440)<br/>
   Anoop Cherian<sup>\*</sup>， **Jue Wang<sup>\*</sup>**<br/>
@@ -82,8 +95,6 @@ Publications
 
 Academic Service
 ======
-* Peer Reviewer for ICCV, CVPR, ECCV, AAAI, ICLR
+* Peer Reviewer for ICCV, CVPR, ECCV, AAAI, ICLR, ICML, NIPS
 
-
-[Download my CV](https://3xwangdot.github.io/files/Jue_WANG_CV.pdf)
 
