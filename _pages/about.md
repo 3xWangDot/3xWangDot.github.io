@@ -18,7 +18,7 @@ Specifically, my current research focus is on:
 
 NEWS:
 ======
-*February 2023*: One paper accepted to the CVPR 2022.
+*February 2023*: One paper accepted to the CVPR 2023.
 
 *February 2022*: Two papers accepted to the CVPR 2022.
 
