@@ -10,7 +10,7 @@ locale                   : "en-AU"
 title                    : "Jue Wang"
 title_separator          : "-"
 name                     : &name "Jue Wang"
-description              : &Machine Learning Scientist at AMAZON"
+description              : &Senior Applied Scientist at AMAZON"
 url                      : https://3xwangdot.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jue Wang"
   avatar           : "juewang.jpg"
-  bio              : "Machine Learning Scientist at AMAZON"
+  bio              : "Senior Applied Scientist at AMAZON"
   location         : "Seattle, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
