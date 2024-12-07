@@ -17,7 +17,10 @@ Education
 
 Work Experience
 ======
-* August 2022 - Now: Machine Learning Scientist
+* April 2024 - Now: Applied Scientist
+  * Amazon AGI
+
+* August 2022 - March 2024: Machine Learning Scientist
   * Amazon Prime Video
 
 * June 2020 - June 2022: Postdoctoral Researcher
@@ -31,6 +34,18 @@ Work Experience
 
 Publications
 ======  
+* [Video token merging for long-form video understanding](https://arxiv.org/pdf/2410.23782)<br/>
+  Seon Ho Lee, **Jue Wang**, Zhikang Zhang, David Fan, Xinyu Arthur Li
+  *Conference on Neural Information Processing Systems (NeurIPS) 2024*
+
+* [Text-guided video masked autoencoder](https://arxiv.org/pdf/2408.00759)<br/>
+  David Fan, **Jue Wang**, Shuai Liao, Zhikang Zhang, Vimal Bhat, Xinyu Li  
+  *European Conference on Computer Vision (ECCV) 2024*
+
+* [Motion-guided masking for spatiotemporal representation learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_Motion-Guided_Masking_for_Spatiotemporal_Representation_Learning_ICCV_2023_paper.pdf)<br/>
+  David Fan, **Jue Wang**, Leo Liao, Yi Zhu, Vimal Bhat, Hector Santos, Rohith Mysore Vijaya Kumar, Xinyu Arthur Li     
+  *IEEE International Conference on Computer Vision (ICCV) 2023*
+
 * [Selective Structured State-Spaces for Long-Form Video Understanding](https://arxiv.org/pdf/2303.14526.pdf)<br/>
   **Jue Wang**, Wentao Zhu, Pichao Wang, Xiang Yu, Linda Liu, Mohamed Omar, Raffay Hamid     
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023*

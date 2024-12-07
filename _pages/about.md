@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jue Wang, working as a Machine Learning Scientist in the [Amazon Prime Video Tech](https://www.primevideotech.com/). Before that, I spent wonderful years at Facebook AI Research Lab (FAIR) working with [Prof. Lorenzo Torresani](https://ltorresa.github.io/home.html) and Mitsubishi Electric Research Laboratories (MERL),  working with [Dr. Anoop Cherian](http://users.cecs.anu.edu.au/~cherian/). I received my PhD in the Australian National University under  the supervision of [Dr. Anoop Cherian](http://users.cecs.anu.edu.au/~cherian/), [Prof. Fatih Porikli](http://www.porikli.com) and [Prof. Richard Hartley](http://users.cecs.anu.edu.au/~hartley/). My research interest includes multi-modality deep learning, large-scaled self-supervised training, and various tasks in video understanding. 
+My name is Jue Wang, a Senior Applied Scientist in the [Amazon AGI](https://www.amazon.jobs/content/en/teams/AGI) working on the Amazon Foundation Model: [Nova](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws). Before that, I spent wonderful years at Facebook AI Research Lab (FAIR) working with [Prof. Lorenzo Torresani](https://ltorresa.github.io/home.html) and Mitsubishi Electric Research Laboratories (MERL),  working with [Dr. Anoop Cherian](http://users.cecs.anu.edu.au/~cherian/). I received my PhD in the Australian National University under  the supervision of [Dr. Anoop Cherian](http://users.cecs.anu.edu.au/~cherian/), [Prof. Fatih Porikli](http://www.porikli.com) and [Prof. Richard Hartley](http://users.cecs.anu.edu.au/~hartley/).
 
 Specifically, my current research focus is on:
+* Video foundation model.
 * Video representation learning for action recognition.
 * Vision and Language: video captioning  and video dialog.
 * Long-form video understanding.
@@ -18,6 +19,14 @@ Specifically, my current research focus is on:
 
 NEWS:
 ======
+*March 2025*: Two papers accepted to the WACV 2025.
+
+*December 2024*: One paper accepted to the NeurIPS 2024.
+
+*October 2024*: One paper accepted to the ECCV 2024.
+
+*October 2023*: One paper accepted to the ICCV 2023.
+
 *February 2023*: One paper accepted to the CVPR 2023.
 
 *February 2022*: Two papers accepted to the CVPR 2022.
