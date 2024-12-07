@@ -35,7 +35,7 @@ Work Experience
 Publications
 ======  
 * [Video token merging for long-form video understanding](https://arxiv.org/pdf/2410.23782)<br/>
-  Seon Ho Lee, **Jue Wang**, Zhikang Zhang, David Fan, Xinyu Arthur Li
+  Seon Ho Lee, **Jue Wang**, Zhikang Zhang, David Fan, Xinyu Arthur Li<br/>
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*
 
 * [Text-guided video masked autoencoder](https://arxiv.org/pdf/2408.00759)<br/>
