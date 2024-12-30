@@ -35,7 +35,7 @@ Work Experience
 Publications
 ======  
 * [NowYouSee Me: Context-Aware Automatic Audio Description](https://arxiv.org/pdf/2412.10002)<br/>
-  Seon-Ho Lee, Jue Wang, David Fan, Zhikang Zhang, Linda Liu, Xiang Hao, Vimal Bhat, Xinyu Li<br/>
+  Seon-Ho Lee, **Jue Wang**, David Fan, Zhikang Zhang, Linda Liu, Xiang Hao, Vimal Bhat, Xinyu Li<br/>
   *Winter Conference on Applications of Computer Vision (WACV) 2025*
 
 * [GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning](https://arxiv.org/pdf/2412.07704)<br/>
